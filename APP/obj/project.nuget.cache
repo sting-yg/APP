@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "Elt6H+Gl6JlfVFx17qSkGVfelyT5ukWqFx7cj7XMiDytJ/z8FnS0Jwc2nHMsqxvBVHLTpWkjg56msT8S4YXaLQ==",
+  "success": true,
+  "projectFilePath": "D:\\workspace\\EX\\APP\\APP\\APP.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gaoyo\\.nuget\\packages\\microsoft.aspnetcore.owin\\7.0.8\\microsoft.aspnetcore.owin.7.0.8.nupkg.sha512",
+    "C:\\Users\\gaoyo\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\gaoyo\\.nuget\\packages\\mqttnet\\4.3.3.952\\mqttnet.4.3.3.952.nupkg.sha512",
+    "C:\\Users\\gaoyo\\.nuget\\packages\\mqttnet.extensions.managedclient\\4.3.3.952\\mqttnet.extensions.managedclient.4.3.3.952.nupkg.sha512",
+    "C:\\Users\\gaoyo\\.nuget\\packages\\pipelines.sockets.unofficial\\2.2.8\\pipelines.sockets.unofficial.2.2.8.nupkg.sha512",
+    "C:\\Users\\gaoyo\\.nuget\\packages\\serilog\\3.1.1\\serilog.3.1.1.nupkg.sha512",
+    "C:\\Users\\gaoyo\\.nuget\\packages\\serilog.sinks.console\\5.0.1\\serilog.sinks.console.5.0.1.nupkg.sha512",
+    "C:\\Users\\gaoyo\\.nuget\\packages\\serilog.sinks.file\\5.0.0\\serilog.sinks.file.5.0.0.nupkg.sha512",
+    "C:\\Users\\gaoyo\\.nuget\\packages\\stackexchange.redis\\2.7.10\\stackexchange.redis.2.7.10.nupkg.sha512",
+    "C:\\Users\\gaoyo\\.nuget\\packages\\system.io.pipelines\\5.0.1\\system.io.pipelines.5.0.1.nupkg.sha512",
+    "C:\\Users\\gaoyo\\.nuget\\packages\\system.net.websockets.websocketprotocol\\5.0.0\\system.net.websockets.websocketprotocol.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
